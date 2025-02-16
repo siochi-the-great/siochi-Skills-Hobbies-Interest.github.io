@@ -1,0 +1,57 @@
+h2{
+    font-family: 'Merriweather', serif;
+    color: black;
+}
+
+h1{
+    font-family: 'Bree Serif', serif;
+    color: #266975;
+    font-size: 40px;
+    text-align: left;
+    letter-spacing: normal;
+}
+
+body{
+    font-family: 'Helvetica World', sans-serif;
+    color: black;
+    background-color: white;
+    letter-spacing: normal;
+    margin: 0;
+   
+    
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 1px;
+    text-align: center;
+    font-family: Georgia,serif;
+    box-shadow: 0 0 2px;
+    
+    
+    
+}
+
+.section_1 {
+    background-color: #cde0c9;
+    padding: 1px;
+    margin: 40px;
+    border-radius: 20px;
+    
+}
+
+.section_2{
+    background-color: #5ac3b6;
+    padding: 1px;
+    margin: 40px;
+    border-radius: 20px;
+    
+}
+
+.section_3{
+    background-color: #bfdb79;
+    padding: 1px;
+    margin: 40px;
+    border-radius: 20px;
+    
+}
